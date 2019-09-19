@@ -3,3 +3,4 @@
 "Updating adding new information"
 "sharing file to remote"
 "feature2" 
+"Feature2 added in features" 
